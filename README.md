@@ -1,8 +1,24 @@
-# React + Vite
+# Nipun's Redux Shopping Cart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nipun's Redux Shopping Cart is a simple React application that allows users to add and remove items from their shopping cart.
 
-Currently, two official plugins are available:
+# Netlify Live Link
+[Live Demo](https://astonishing-puffpuff-dc7f3a.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- View a list of products on the home page
+- Add products to the shopping cart
+- Remove products from the shopping cart
+- View the total amount in the shopping cart
+
+## Technologies Used
+-React
+-Redux Toolkit
+-React Router
+-Tailwind CSS
+
+## Project Structure
+-/src: Contains the source code for the React application.
+- --/components: React components used in the application.
+- --/features: Redux slices and actions for managing state.
