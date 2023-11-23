@@ -1,6 +1,6 @@
 # Nipun's Redux Shopping Cart
 
-Nipun's Redux Shopping Cart is a simple React application that allows users to add and remove items from their shopping cart.
+Nipun's Redux Shopping Cart is a React application that allows users to add and remove items from their shopping cart.
 
 # Netlify Live Link
 [Live Demo](https://astonishing-puffpuff-dc7f3a.netlify.app/)
